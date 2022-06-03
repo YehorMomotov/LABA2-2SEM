@@ -1,0 +1,81 @@
+[{
+  "title": "Into the Wild",
+  "ISBN": "2-266-11156-10",
+  "year": 2002,
+  "number": "",
+  "publisher": "Villard",  
+  "literate": "Book",
+  "author": "Jon Krakauer"
+},
+{
+  "title": "National Geographic Magazine",
+  "ISBN": "2-266-11156-13",
+  "year": 2003,
+  "number": "1",
+  "publisher": "Doubleday",  
+  "literate": "Journal",
+  "author": "Jon Krakauer"
+},
+{
+  "title": "It",
+  "ISBN": "2-266-11156-28",
+  "year": 2014,
+  "number": "",
+  "publisher": "Villard",  
+  "literate": "Book",
+  "author": "Stephen King"
+},
+{
+  "title": "The Shining",
+  "ISBN": "2-266-11156-56",
+  "year": 2012,
+  "number": "",
+  "publisher": "Doubleday",  
+  "literate": "Book",
+  "author": "Stephen King"
+},
+{
+  "title": "Fantastic Beasts: The Secrets of Dumbledore - The Original Screenplay",
+  "ISBN": "2-266-11156-77",
+  "year": 2010,
+  "number": "",
+  "publisher": "Doubleday",  
+  "literate": "Book",
+  "author": "J. K. Rowling"
+},
+{
+  "title": "Harry Potter and the Philosopher's Stone",
+  "ISBN": "2-266-11156-77",
+  "year": 2006,
+  "number": "",
+  "publisher": "Villard",  
+  "literate": "Book",
+  "author": "J. K. Rowling"
+},
+{
+  "title": "A Time to Kill",
+  "ISBN": "2-266-11156-98",
+  "year": 2008,
+  "number": "",
+  "publisher": "Doubleday",  
+  "literate": "Book",
+  "author": "John Grisham"
+},
+{
+  "title": "Weekend Today",
+  "ISBN": "2-266-11156-99",
+  "year": 2011,
+  "number": "1",
+  "publisher": "National Geographic",  
+  "literate": "Journal",
+  "author": "James Patterson"
+},
+{
+  "title": "Weekend Today",
+  "ISBN": "2-266-11156-95",
+  "year": 2011,
+  "number": "2",
+  "publisher": "National Geographic",  
+  "literate": "Journal",
+  "author": "James Patterson"
+}]
